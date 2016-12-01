@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mytv365.zb"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+
+    <!-- <uses-feature android:name="android.hardware.camera" /> -->
+    <application
+        android:name=".views.GlobalApplication"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@android:style/Theme.NoTitleBar">
+        <activity
+            android:name=".views.activity.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- 主页功能 -->
+        <activity
+            android:name=".views.activity.FunctionActivity"
+            android:screenOrientation="portrait" />
+        <!-- 登录 -->
+        <activity
+            android:name=".views.activity.user.LoginActivity"
+            android:screenOrientation="portrait" />
+        <!-- 注册 -->
+        <activity
+            android:name=".views.activity.user.RegisterActivity"
+            android:screenOrientation="portrait" />
+        <!-- 找回密码 -->
+        <activity
+            android:name=".views.activity.user.ForgetPasswordActivity"
+            android:screenOrientation="portrait" />
+        <!-- 找回密码 -->
+
+        <activity
+            android:name=".views.activity.HomeActivity"
+            android:screenOrientation="portrait" />
+        <!-- 找回密码 -->
+        <activity
+            android:name=".views.activity.user.FansActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.RegisterActivity"
+            android:screenOrientation="portrait" />
+        <!-- <activity android:name=".views.HomeActivity" -->
+        <!-- android:screenOrientation="portrait" -->
+        <!-- /> -->
+        <activity
+            android:name=".views.PublishLiveActivity"
+            android:configChanges="orientation|keyboard|keyboardHidden|screenSize"
+            android:screenOrientation="portrait" />
+        <!-- 避免部分机器调用摄像头时自动横竖屏切换造成Activity重建 -->
+        <activity
+            android:name=".views.LiveActivity"
+            android:configChanges="orientation|keyboard|keyboardHidden|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".views.EditProfileActivity"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".views.EditActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activity.user.Userjianjie"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.SetActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.zhibolive.zhuboActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activity.PublishActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.zhibolive.EndLiveAvtivity"
+            android:screenOrientation="portrait" />
+
+        <!-- add by hymane -->
+        <activity
+            android:name=".views.activity.NewsDetailActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".views.activity.mine.AboutActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".views.activity.mine.SettingActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".views.activity.mine.ChangePasswordActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".views.activity.mine.FeedbackActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".views.ChongzhiActiviry"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activity.user.ReviewActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- 网络状态监听Service（共通组件） -->
+        <service
+            android:name=".common.MyNetworkListener"
+            android:exported="false"
+            android:permission="android.permission.ACCESS_NETWORK_STATE">
+            <intent-filter>
+                <action android:name="com.tencent.qcloud.suixinbo.common.MyNetworkListener" />
+            </intent-filter>
+        </service>
+
+        <!-- TLS Qal 一些服务 -->
+        <service
+            android:name="com.tencent.qalsdk.service.QalService"
+            android:exported="false"
+            android:process=":QALSERVICE" />
+
+        <receiver
+            android:name="com.tencent.qalsdk.QALBroadcastReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.tencent.qalsdk.broadcast.qal" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.tencent.qalsdk.core.NetConnInfoCenter"
+            android:process=":QALSERVICE">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.TIME_SET" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".views.activity.user.PersontalNotice"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activity.user.PersontalUserReplay"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activity.user.UserEditInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activity.user.PersontalDeaultName"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activity.user.PersontalDeaultStyleDes"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activity.user.PersontalDeaultSex"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.zhibolive.livebase.PcLiveActivity"
+            android:configChanges="orientation|keyboard|keyboardHidden|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".views.activity.RememberVideoActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".views.activity.MyzhuyeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activity.TeacherJianJie"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.alipay.sdk.app.H5PayActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind" />
+        <activity
+            android:name="com.alipay.sdk.auth.AuthActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind" />
+        <activity android:name=".views.activity.PersontalNotice"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".views.activity.PersonPayActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".views.activity.PersonPayMoneyActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".views.WebPageActivity" />
+
+
+        <activity
+            android:name="com.mytv365.zb.views.activity.stock.SearchActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mytv365.zb.views.activity.stock.HshqActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mytv365.zb.views.activity.stock.HotActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mytv365.zb.views.activity.stock.IncreaseActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mytv365.zb.views.activity.stock.GgxqActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" />
+        <activity
+            android:name="com.mytv365.zb.views.activity.stock.NewsActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mytv365.zb.views.activity.stock.FJActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activity.stock.DetailActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 注册广播 -->
+        <receiver android:name="com.mytv365.zb.receiver.NetWorkChangeBroadcastReceiver" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".wxapi.WXPayEntryActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:scheme="wxa0d5abb059674e4c" />
+            </intent-filter>
+        </activity>
+
+
+        <activity
+            android:name=".wxapi.PayEntryActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <!--
+        <activity
+            android:name="com.mob.tools.MobUIShell"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+            &lt;!&ndash; QQ和QQ空间分享 QQ登录的回调必须要配置的 &ndash;&gt;
+            <intent-filter>
+                <data android:scheme="tencent100371282" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            &lt;!&ndash; 新浪微博客户端分享回调必须配置 &ndash;&gt;
+            <intent-filter>
+                <action android:name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+
+        &lt;!&ndash;微信分享回调 &ndash;&gt;
+        <activity
+            android:name=".wxapi.WXEntryActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        -->
+
+        <activity android:name=".views.activity.PersontalVersoinCheckActivity"></activity>
+    </application>
+
+</manifest>

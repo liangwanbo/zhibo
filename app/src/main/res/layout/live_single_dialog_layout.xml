@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/live_single_dialog_bg"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="15dp"
+        >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="下线通知"
+        android:textColor="@color/colorGray5"
+        android:textSize="15sp"
+        android:id="@+id/single_dialog_title"
+        />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="你的帐号其他地方登录"
+            android:textColor="@color/colorGray5"
+            android:padding="10dp"
+            android:id="@+id/live_single_notice"
+            />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/theme_bg"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="退出"
+                android:textColor="@color/deepskyblue"
+                android:gravity="center"
+                android:textSize="14sp"
+                android:background="@drawable/live_single_dialog_perssed_selector_left"
+                android:id="@+id/live_dialog_right_btn_back"
+                />
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="@color/theme_bg"
+                />
+
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="重新登录"
+                android:textColor="@color/deepskyblue"
+                android:gravity="center"
+                android:textSize="14sp"
+                android:background="@drawable/live_single_dialog_perssed_selector_right"
+                android:id="@+id/live_dialog_left_btn_replay"
+                />
+
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

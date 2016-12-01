@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/theme_bg">
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/persontal_nodata"
+        android:id="@+id/persontal_nodata_img_replay"
+        android:visibility="gone"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="暂无简介"
+        android:layout_marginTop="10dp"
+        android:textSize="15sp"
+        android:layout_below="@+id/persontal_nodata_img_replay"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"
+        android:id="@+id/persontal_nodata_text_replay"
+        />
+
+
+
+    <include
+        layout="@layout/common_back_title"
+        android:id="@+id/layour_title">
+
+    </include>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:layout_below="@id/layour_title"
+        android:background="@color/write"
+        android:id="@+id/tearch_introuce"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="按时到家里开团就卡决定了看到阿萨是打开奥斯卡了京东拿手机爱上就对啦开始的"
+            android:textSize="16sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:id="@+id/text_jianjie"/>
+
+    </RelativeLayout>
+
+
+
+
+
+
+
+
+</RelativeLayout>

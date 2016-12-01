@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/theme_bg"
+    >
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/persontal_nodata"
+        android:id="@+id/persontal_nodata_img_replay"
+        android:visibility="gone"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="暂无数据"
+        android:layout_marginTop="10dp"
+        android:textSize="15sp"
+        android:layout_below="@+id/persontal_nodata_img_replay"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"
+        android:id="@+id/persontal_nodata_text_replay"
+        />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/replay_title_layout"
+        >
+
+       <com.mylhyl.crlayout.SwipeRefreshGridView
+           xmlns:crl="http://schemas.android.com/apk/res-auto"
+           android:id="@+id/swipeRefresh"
+           android:layout_height="match_parent"
+           android:layout_width="match_parent"
+           android:numColumns="2"
+           android:scrollbars="none"
+           android:listSelector="#00000000"
+           android:verticalSpacing="10dp"
+           android:horizontalSpacing="10dp"
+           android:layout_marginLeft="10dp"
+           android:layout_marginRight="10dp"
+           android:paddingBottom="10dp"
+           android:paddingTop="3dp"
+           />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/write"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal"
+            android:visibility="invisible"
+            android:id="@+id/replay_choice_layout"
+            >
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="全选"
+                android:gravity="center"
+                android:textSize="16sp"
+                android:clickable="true"
+                android:textColor="@color/black"
+                android:id="@+id/replay_choice_all"
+                android:layout_height="match_parent" />
+            <ImageView
+                android:layout_width="1dp"
+                android:layout_height="30dp"
+                android:gravity="center"
+                android:background="@color/theme_bg"
+                />
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="删除"
+                android:id="@+id/replay_choice_delete"
+                android:clickable="true"
+                android:textSize="16sp"
+                android:gravity="center"
+                android:layout_height="match_parent" />
+
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

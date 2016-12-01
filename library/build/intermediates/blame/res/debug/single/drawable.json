@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\dialog.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\pull_refresh_drawable.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\pull_refresh_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog_effect_btn_unpress.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\shape_dialog_effect_btn_unpress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\leak_canary_toast_background.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\drawable\\leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_style.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\checkbox_style.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\view_progressbar_mini.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\view_progressbar_mini.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_common_white_back_btn.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\selector_common_white_back_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\resource_progress_firstmedium.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\resource_progress_firstmedium.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\public_progress.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\public_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\mian_tabstyle_text.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\mian_tabstyle_text.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_top_buttom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\frame_top_buttom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_dialog_effect_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\selector_dialog_effect_btn.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_common_share_white_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\selector_common_share_white_btn.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog_effect_btn_unpress.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\shape_dialog_effect_btn_unpress.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\mian_tabstyle_text.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\mian_tabstyle_text.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog_effect_btn_press.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\shape_dialog_effect_btn_press.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobuttonstyle_bg.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\radiobuttonstyle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_common_white_back_btn.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\selector_common_white_back_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\resource_progress_firstmedium.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\resource_progress_firstmedium.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog_effect_bg.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\shape_dialog_effect_bg.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobuttonstyle_bg_bottom.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\radiobuttonstyle_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_common_white_back_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\selector_common_white_back_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\leak_canary_toast_background.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\drawable\\leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_common_fav_white_btn.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\selector_common_fav_white_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_common_share_white_btn.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\selector_common_share_white_btn.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\mian_tabstyle_text.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\mian_tabstyle_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_buttom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\frame_buttom.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_top_buttom.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\frame_top_buttom.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_common_back_white_btn.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\selector_common_back_white_btn.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_common_fav_white_btn.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\selector_common_fav_white_btn.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\public_progress.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\public_progress.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\pull_refresh_drawable.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\pull_refresh_drawable.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog_effect_btn_press.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\shape_dialog_effect_btn_press.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\public_bg_hei.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\public_bg_hei.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\view_progressbar_mini.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\view_progressbar_mini.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobuttonstyle_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\radiobuttonstyle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_common_transparent_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\selector_common_transparent_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog_effect_btn_unpress.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\shape_dialog_effect_btn_unpress.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobuttonstyle_bg.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\radiobuttonstyle_bg.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_common_transparent_btn.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\selector_common_transparent_btn.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_style.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\checkbox_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_arrow.png",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\leak_canary_toast_background.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\drawable\\leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_buttom.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\frame_buttom.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\pull_refresh_drawable.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\pull_refresh_drawable.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_dialog_effect_btn.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\selector_dialog_effect_btn.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_arrow.png",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_buttom.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\frame_buttom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_common_fav_white_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\selector_common_fav_white_btn.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog_effect_bg.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\shape_dialog_effect_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobuttonstyle_bg_bottom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\radiobuttonstyle_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_style.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\checkbox_style.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\dialog.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\public_progress.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\public_progress.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\public_bg_hei.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\public_bg_hei.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_arrow.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobuttonstyle_bg_bottom.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\radiobuttonstyle_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\view_progressbar_mini.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\view_progressbar_mini.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\public_bg_hei.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\public_bg_hei.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog_effect_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\shape_dialog_effect_bg.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog_effect_btn_press.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\shape_dialog_effect_btn_press.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_dialog_effect_btn.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\selector_dialog_effect_btn.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_common_back_white_btn.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\selector_common_back_white_btn.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_common_back_white_btn.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\selector_common_back_white_btn.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_top_buttom.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\frame_top_buttom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\resource_progress_firstmedium.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\resource_progress_firstmedium.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\dialog.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_common_share_white_btn.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\selector_common_share_white_btn.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_common_transparent_btn.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\drawable\\selector_common_transparent_btn.xml"
+    }
+]

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/theme_bg">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:orientation="vertical"
+        android:background="@color/title"
+        android:id="@+id/replay_title_layout">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="精彩回顾"
+            android:layout_marginLeft="20dp"
+            android:textColor="@color/write"
+           android:gravity="center"
+            android:textSize="20sp"
+            />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="40dp"
+            android:paddingRight="9dp"
+            android:paddingLeft="9dp"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp"
+            android:src="@drawable/persontal_user_delete"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:id="@+id/replay_choice_bianji"
+            />
+    </RelativeLayout>
+
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/replay_title_layout"
+        >
+
+        <com.mytv365.zb.widget.MyGridView
+            android:id="@+id/gv"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:listSelector="#00000000"
+            android:numColumns="2"
+            android:verticalSpacing="10dp"
+            android:horizontalSpacing="10dp"
+            android:scrollbars="none"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/write"
+           android:layout_below="@id/gv"
+            android:orientation="horizontal"
+            android:visibility="invisible"
+            android:id="@+id/replay_choice_layout"
+            >
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="全选"
+                android:gravity="center"
+                android:textSize="16sp"
+                android:clickable="true"
+                android:id="@+id/replay_choice_all"
+                android:layout_height="match_parent" />
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="30dp"
+                android:gravity="center"
+                android:background="@color/theme_bg"
+                />
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="删除"
+                android:id="@+id/replay_choice_delete"
+                android:clickable="true"
+                android:textSize="16sp"
+                android:gravity="center"
+                android:layout_height="match_parent" />
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+
+
+
+
+
+</RelativeLayout>

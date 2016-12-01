@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginLeft="4dp"
+    >
+
+
+    <com.fhrj.library.view.imageview.RoundImageView xmlns:roundImageView="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/live_profile_item_face_img"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="4dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@null"
+        roundImageView:borderRadius="3dp"
+        android:src="@drawable/a11"
+        />
+    
+</LinearLayout>

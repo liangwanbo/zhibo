@@ -1,0 +1,746 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\common_title_bar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\common_title_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\public_title.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\public_title.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\public_title_list_grid.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\public_title_list_grid.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\activity_common_webpage.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\activity_common_webpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_leak_row.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\tab_indicator_layout.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\tab_indicator_layout.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\public_title_list_grid.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\public_title_list_grid.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\public_dialog.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\public_dialog.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\public_dialog_load.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\public_dialog_load.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\public_tabs_item.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\public_tabs_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\progress_loading_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\progress_loading_view.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_heap_dump_toast.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\activity_launcher.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\activity_launcher.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base_container.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\activity_base_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\tab_indicator_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\tab_indicator_item.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\tab_indicator_item.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\tab_indicator_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_top_row.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\carousel_figure.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\carousel_figure.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\progress_empty_view.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\progress_empty_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\progress_empty_view.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\progress_empty_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\strings.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\strings.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_display_leak.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\strings.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\strings.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\activity_common_webpage.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\activity_common_webpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\common_title.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\common_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base_container.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\activity_base_container.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\common_title_bar.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\common_title_bar.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_row.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\tab_indicator_line.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\tab_indicator_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_display_leak.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\carousel_figure.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\carousel_figure.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\activity_launcher.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\activity_launcher.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\progress_loading_view.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\progress_loading_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\public_dialog_load.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\public_dialog_load.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\public_network.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\public_network.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_heap_dump_toast.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\public_dialog_load.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\public_dialog_load.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_row.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\strings.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\strings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\public_title.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\public_title.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\carousel_figure.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\carousel_figure.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base_container.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\activity_base_container.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\public_dialog.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\public_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\activity_common_webpage.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\activity_common_webpage.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_top_row.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\public_network.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\public_network.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\activity_launcher.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\activity_launcher.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\progress_empty_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\progress_empty_view.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_row.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_heap_dump_toast.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\public_title.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\public_title.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\tab_indicator_item.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\tab_indicator_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\public_tabs_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\public_tabs_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_leak_row.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\public_tabs_item.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\public_tabs_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_top_row.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_display_leak.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_leak_row.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\tab_indicator_line.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\tab_indicator_line.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\public_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\public_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\tab_indicator_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\tab_indicator_layout.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\progress_loading_view.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\progress_loading_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\public_network.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\public_network.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\public_title_list_grid.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\public_title_list_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\common_title.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\src\\main\\res\\layout\\common_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\common_title.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\src\\main\\res\\layout\\common_title.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\tab_indicator_layout.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\tab_indicator_layout.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\common_title_bar.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\common_title_bar.xml"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\tab_indicator_line.xml",
+        "source": "E:\\csvn\\baseproject\\library\\src\\main\\res\\layout\\tab_indicator_line.xml"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple.xml"
+    }
+]

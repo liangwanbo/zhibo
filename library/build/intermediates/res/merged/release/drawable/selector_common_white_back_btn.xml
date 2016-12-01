@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- webview标题栏白色[返回]按钮选择器 -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/nav_back_btn_white_n" android:state_focused="true" android:state_pressed="false"/>
+    <item android:drawable="@drawable/nav_back_btn_white_p" android:state_focused="true" android:state_pressed="true"/>
+    <item android:drawable="@drawable/nav_back_btn_white_n" android:state_focused="false" android:state_pressed="false"/>
+    <item android:drawable="@drawable/nav_back_btn_white_p" android:state_pressed="true"/>
+    <item android:drawable="@drawable/nav_back_btn_white_p" android:state_enabled="false"/>
+</selector>

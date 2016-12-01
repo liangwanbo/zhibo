@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 共通标题栏 -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/title_bar_top"
+    android:background="@color/title"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/title_bar_padding_top">
+    <!-- 标题 -->
+
+    <RelativeLayout
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/relat_back">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/left_back"
+            android:layout_marginLeft="20dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="10dp"/>
+
+    </RelativeLayout>
+
+
+    <TextView
+        android:id="@+id/tv_titles"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="标题"
+        android:textColor="@color/title_text"
+        android:textSize="18sp"
+        android:layout_marginBottom="10dp"/>
+    <!-- 底部线 -->
+    <View
+        android:id="@+id/title_buttom_line"
+        android:layout_width="match_parent"
+        android:layout_height="0.33dp"
+        android:background="@color/theme_bg"
+        android:layout_alignParentBottom="true"/>
+
+
+
+</RelativeLayout>

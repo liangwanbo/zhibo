@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:baselineAligned="false"
+        android:orientation="horizontal"
+        android:padding="2dp" >
+
+        <LinearLayout
+            android:id="@+id/hot1pid"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@color/z_colorblock"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/hotname1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="10dp"
+                android:textColor="@color/White"
+                android:textSize="12sp" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/hotzf1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/z_red"
+                android:textSize="16sp" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/hotzl1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingBottom="10dp"
+                android:textColor="@color/White"
+                android:textSize="10sp" >
+            </TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hot2pid"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@color/z_colorblock"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/hotname2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="10dp"
+                android:textColor="@color/White"
+                android:textSize="12sp" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/hotzf2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/z_red"
+                android:textSize="16sp" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/hotzl2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/White"
+                android:textSize="10sp" >
+            </TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hot3pid"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:background="@color/z_colorblock"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/hotname3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="10dp"
+                android:textColor="@color/White"
+                android:textSize="12sp" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/hotzf3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/z_red"
+                android:textSize="16sp" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/hotzl3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/White"
+                android:textSize="10sp" >
+            </TextView>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:baselineAligned="false"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/hot4pid"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="2dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:background="@color/z_colorblock"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/hotname4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="10dp"
+                android:textColor="@color/White"
+                android:textSize="12sp" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/hotzf4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/z_red"
+                android:textSize="16sp" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/hotzl4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingBottom="10dp"
+                android:textColor="@color/White"
+                android:textSize="10sp" >
+            </TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hot5pid"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="2dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:background="@color/z_colorblock"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/hotname5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="10dp"
+                android:textColor="@color/White"
+                android:textSize="12sp" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/hotzf5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/z_red"
+                android:textSize="16sp" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/hotzl5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/White"
+                android:textSize="10sp" >
+            </TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hot6pid"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="2dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:background="@color/z_colorblock"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/hotname6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="10dp"
+                android:textColor="@color/White"
+                android:textSize="12sp" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/hotzf6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/z_red"
+                android:textSize="16sp" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/hotzl6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/White"
+                android:textSize="10sp" >
+            </TextView>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

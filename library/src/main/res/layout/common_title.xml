@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 共通标题栏 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/title_bar_top"
+    android:background="@color/title"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/title_bar_padding_top">
+    <!-- 标题 -->
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:textColor="@color/title_text"
+        android:textSize="18sp" />
+    <!-- 底部线 -->
+    <View
+        android:id="@+id/title_buttom_line"
+        android:layout_width="match_parent"
+        android:layout_height="0.33dp"
+        android:background="@color/theme_bg" />
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/pay_item_layout_img_golds"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/golds" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/pay_item_layout_img_golds"
+            android:layout_marginLeft="3dp"
+            android:layout_toRightOf="@+id/pay_item_layout_img_golds"
+            android:text="60金币"
+            android:id="@+id/pay_item_glodNum"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/pay_item_layout_img_golds"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/persontal_income_bg"
+            android:gravity="center"
+            android:text="6元"
+            android:textColor="@color/myred_danhong"
+            android:id="@+id/pay_item_moneyNum"
+            />
+
+    </RelativeLayout>
+
+</RelativeLayout>

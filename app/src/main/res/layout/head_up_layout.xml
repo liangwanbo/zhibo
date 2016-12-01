@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/quantouming"
+    android:orientation="vertical">
+    <!--
+        <LinearLayout
+            android:layout_width="180dp"
+            android:layout_height="60dp"
+            android:background="@drawable/head_layout_background"
+            >
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:id="@+id/heart_counts"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                    android:drawableLeft="@drawable/icon_hearts"
+                    android:drawablePadding="5dp"
+                    android:text="7979"
+                    android:textColor="@color/colorTextWhite" />
+        </LinearLayout>
+        </LinearLayout>-->
+
+
+    <RelativeLayout
+        android:id="@+id/Relate_top"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/xianjin_shape">
+
+        <ImageView
+            android:id="@+id/head_icon"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/icon_members" />
+
+
+        <TextView
+            android:id="@+id/host_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@id/head_icon"
+            android:text="Amand"
+            android:layout_marginRight="10dp"
+            android:textColor="@color/write"
+            android:textSize="12sp" />
+
+
+        <TextView
+            android:id="@+id/member_counts"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/host_name"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="1dp"
+            android:layout_toRightOf="@id/head_icon"
+            android:text="0"
+            android:textColor="@color/write"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/text_ren"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/host_name"
+            android:layout_marginLeft="2dp"
+            android:layout_marginTop="2dp"
+            android:layout_toRightOf="@id/member_counts"
+            android:text="人"
+            android:textColor="@color/write"
+            android:textSize="11sp" />
+
+
+        <RelativeLayout
+            android:id="@+id/relat_guanzhu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/host_name"
+            >
+
+            <TextView
+                android:background="@drawable/guanzhu"
+                android:id="@+id/audience"
+                android:layout_width="90dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="4dp"
+                android:layout_marginRight="4dp"
+                android:layout_marginTop="3dp"
+                android:layout_marginBottom="3dp"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:gravity="center"
+                android:text="关注"
+                android:textColor="@color/write" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+       <!-- <LinearLayout
+            android:id="@+id/record_tip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@+id/record_ball"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/liveshow_item_dot"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/broadcasting_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="5dp"
+                android:text="00:00"
+                android:textColor="@color/colorTextWhite" />
+
+        </LinearLayout>-->
+
+
+</RelativeLayout>

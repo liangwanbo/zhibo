@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical" >
+
+        <ImageView style="@style/langsi_popup_septal_line_style" />
+
+
+
+        <ImageView style="@style/langsi_popup_septal_line_style" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:gravity="center" >
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/langsi_popup_viewpager"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:id="@+id/langsi_button_group_layout"
+            android:layout_width="match_parent"
+            android:layout_height="67.5dp"
+            android:orientation="horizontal"
+            android:visibility="gone"
+            android:weightSum="2" >
+
+            <Button
+                android:id="@+id/button_always"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="@string/activity_resolver_use_always"
+                android:textColor="@color/langsi_popup_button_text_selector" />
+
+            <ImageView style="@style/langsi_popup_septal_line_vertical_style" />
+
+            <Button
+                android:id="@+id/button_once"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="@string/activity_resolver_use_once"
+                android:textColor="@color/langsi_popup_button_text_selector" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

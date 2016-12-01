@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 股票列表 -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#FFFFFF"
+              android:descendantFocusability="blocksDescendants"
+               >
+
+        <View
+            android:id="@+id/headDivider"
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="#DADADB"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:id="@+id/ll_parent"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="#FFFFFF"
+            android:orientation="horizontal" >
+
+
+                <TextView
+                    android:id="@+id/name"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textColor="#111212"
+                    android:textSize="18sp" />
+                <TextView
+                    android:id="@+id/close"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textColor="#000000"
+                    android:textSize="16sp" />
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent"
+                    android:gravity="center">
+
+                <TextView
+                    android:id="@+id/changep"
+                    android:layout_width="60dp"
+                    android:layout_height="30dp"
+                    android:ellipsize="end"
+                    android:singleLine="true"
+                    android:gravity="center"
+                    android:background="@drawable/btn_bg_style"
+                    android:textColor="#FFFFFF"
+                    android:textSize="16sp" />
+                </RelativeLayout>
+        </LinearLayout>
+
+        <View
+            android:id="@+id/divider"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#DADADB"
+            android:visibility="gone" />
+
+
+</RelativeLayout>

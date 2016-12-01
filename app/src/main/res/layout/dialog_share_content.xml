@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/quantouming">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="分享到"
+        android:gravity="center_horizontal"
+        android:textColor="@color/black" />
+
+    <GridView
+        android:listSelector="@android:color/transparent"
+        android:id="@+id/gv_share"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/quantouming"
+        android:gravity="center"
+        android:horizontalSpacing="1dp"
+        android:numColumns="4"
+        android:paddingBottom="20dp"
+        android:paddingTop="15dp"
+        android:verticalSpacing="1dp" />
+
+    <Button
+        android:id="@+id/btn_dimiss"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/bg_cancel_btn_selector"
+        android:text="取消"
+        android:textColor="@color/black"/>
+
+</LinearLayout>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/theme_bg">
+
+    <RelativeLayout
+        android:id="@+id/pay_money_shang_layout"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/white"
+        android:paddingTop="20dp">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_horizontal"
+            android:text="账户余额"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+
+        <ImageView
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_alignBottom="@+id/textView"
+            android:layout_marginLeft="3dp"
+            android:layout_toRightOf="@+id/textView"
+            android:src="@drawable/golds" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:gravity="center_horizontal"
+            android:text="0.0"
+            android:textColor="@color/orange"
+            android:textSize="25sp"
+            android:id="@+id/pay_money_last"
+            />
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pay_money_shang_layout"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/pay_money_notice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="5dp"
+            android:text="金币充值:"
+            android:textSize="13sp" />
+
+
+        <ListView
+            android:id="@+id/pay_money_listview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/pay_money_notice"
+            android:layout_marginTop="1dp"
+            android:background="@color/white"
+            android:divider="@color/theme_bg"
+            android:dividerHeight="1dp"
+            />
+
+
+
+    </RelativeLayout>
+</RelativeLayout>

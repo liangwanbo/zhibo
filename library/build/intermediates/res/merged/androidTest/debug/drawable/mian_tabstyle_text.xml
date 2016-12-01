@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<!-- tabs字体颜色 -->
+<selector  
+  xmlns:android="http://schemas.android.com/apk/res/android">  
+    <item android:state_selected="true"  
+        android:color="@color/theme_select"/>
+    <item android:state_selected="false"  
+        android:color="@color/theme_default"/>
+</selector> 

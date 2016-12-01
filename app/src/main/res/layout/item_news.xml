@@ -1,0 +1,43 @@
+<!--新闻 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/frame_buttom"
+    android:id="@+id/ll_article"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal"
+    android:padding="5dp">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="习近平两次致贺信 这个书院成立初就不一般"
+            android:textColor="@color/theme_default"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_source"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="来源：上海新兰德"
+            android:textColor="@color/tencent_tls_ui_shadowgray" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/iv_img"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="80dp"
+        android:layout_gravity="center_vertical"
+        android:src="@mipmap/cs_news" />
+</LinearLayout>
+

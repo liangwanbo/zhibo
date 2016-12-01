@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="2dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="6dp"
+        android:text="Hi，欢迎您提下宝贵的意见哦~记得留下你的QQ或有效等关联方式~以便我们与您沟通"
+        android:textColor="?android:attr/textColorSecondary"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/et_content"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_margin="6dp"
+        android:background="@drawable/frame"
+        android:gravity="top"
+        android:hint="意见输入："
+        android:lines="5"
+        android:padding="4dp"
+        android:textColor="?android:attr/textColorPrimary"
+        android:textColorHint="?android:attr/textColorSecondary"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/et_contact"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center_vertical"
+        android:layout_margin="4dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/frame"
+        android:hint="您的联系方式!"
+        android:padding="6dp"
+        android:textSize="14sp"
+        android:singleLine="true" />
+
+    <Button
+        android:id="@+id/btn_ok"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="16dp"
+        android:background="@drawable/login_red_btn"
+        android:text="提交"
+        android:textColor="@color/white" />
+
+</LinearLayout>

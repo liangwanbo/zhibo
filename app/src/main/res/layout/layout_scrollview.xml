@@ -1,0 +1,40 @@
+<!-- 直播 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/theme_bg"
+    android:orientation="vertical">
+
+    <include layout="@layout/common_title" />
+
+    <com.fhrj.library.view.ProgressActivity xmlns:progressActivity="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/progressActivity"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        progressActivity:emptyBackgroundColor="#FFFFFF"
+        progressActivity:emptyContentTextColor="@color/grey"
+        progressActivity:emptyTitleTextColor="@color/grey"
+        progressActivity:errorBackgroundColor="#FFFFFF"
+        progressActivity:errorButtonTextColor="@color/grey"
+        progressActivity:errorContentTextColor="@color/grey"
+        progressActivity:errorTitleTextColor="@color/grey"
+        progressActivity:loadingBackgroundColor="#FFFFFF">
+
+        <com.fhrj.library.view.pulltorefresh.PullToRefreshScrollView
+            android:id="@+id/scrollView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/theme_bg"
+            android:cacheColorHint="#00000000"
+            android:divider="#19000000"
+            android:dividerHeight="0dp"
+            android:fadingEdge="none"
+            android:fastScrollEnabled="false"
+            android:footerDividersEnabled="false"
+            android:headerDividersEnabled="false"
+            android:listSelector="@null"
+            android:scrollbars="none"
+            android:smoothScrollbar="true" />
+    </com.fhrj.library.view.ProgressActivity>
+
+</LinearLayout>

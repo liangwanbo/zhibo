@@ -1,0 +1,2 @@
+include ':app', ':library', ':okgo'
+//project(':librarys').projectDir = new File('library')

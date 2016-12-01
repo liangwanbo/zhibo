@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 启动页面 -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/yh">
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:contentDescription="@null"
+        android:src="@null" />
+
+    <Button
+        android:id="@+id/skip"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="40dp"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:text="跳过"
+        android:textColor="@color/white"
+        android:layout_alignParentRight="true"
+        android:textSize="12sp"
+        android:visibility="gone"/>
+
+</RelativeLayout>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/host_bottom_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+   >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/flash_btn"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/icon_flash"
+            android:visibility="gone" />
+
+        <!--
+            <TextView
+                android:id="@+id/mic_btn"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/mic_switch" />-->
+
+        <!-- <TextView
+             android:id="@+id/switch_cam"
+             android:layout_width="40dp"
+             android:layout_height="40dp"
+             android:layout_gravity="center"
+             android:layout_marginLeft="10dp"
+             android:background="@drawable/icon_switch_camera" />-->
+
+        <ImageView
+            android:id="@+id/fullscreen_btn"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/icon_fullscreen"
+            android:visibility="gone" />
+
+        <!-- <TextView
+             android:id="@+id/send_good"
+             android:layout_width="40dp"
+             android:layout_height="40dp"
+             android:layout_gravity="center"
+             android:layout_marginLeft="10dp"
+             android:background="@drawable/icon_like" />-->
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/layout_dl"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+       >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/pinlun"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:src="@drawable/chat" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/mic_btn"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_gravity="center"
+                android:src="@drawable/prohibit2" />
+
+        </LinearLayout>
+
+
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/beauty_btn"
+                android:layout_width="35dp"
+                android:layout_height="36dp"
+                android:layout_gravity="center"
+                android:background="@drawable/publish_whit" />
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/white_btn"
+                android:layout_width="35dp"
+                android:layout_height="36dp"
+                android:layout_gravity="center"
+                android:background="@drawable/publish_beaut" />
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:gravity="center" >
+
+            <ImageView
+                android:id="@+id/switch_cam"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_gravity="center"
+                android:src="@drawable/camera_dl" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:visibility="gone">
+            <ImageView
+                android:id="@+id/share_pt"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:src="@drawable/share_dl"
+                />
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:gravity="center">
+            <ImageView
+                android:id="@+id/send_good"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+               android:layout_gravity="center"
+                android:src="@drawable/giftsd" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <ImageView
+        android:id="@+id/send_good_two"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/giftsd"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="14dp"
+        android:visibility="gone"/>
+
+
+
+</RelativeLayout>

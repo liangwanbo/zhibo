@@ -1,0 +1,20 @@
+<com.mytv365.zb.pullableview.PullToRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/refresh_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <include layout="@layout/refresh_head" />
+    <!-- 支持所有实现Pullable接口的View -->
+
+    <com.mytv365.zb.pullableview.PullableListView
+        android:id="@+id/content_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:cacheColorHint="#00000000"
+        android:divider="#01152e"
+        android:dividerHeight="1dp"
+        android:listSelector="#00000000" />
+
+    <include layout="@layout/load_more" />
+
+</com.mytv365.zb.pullableview.PullToRefreshLayout>

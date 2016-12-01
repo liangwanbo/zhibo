@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/theme_bg"
+    android:orientation="vertical">
+
+    <include layout="@layout/common_back_title" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@color/write">
+
+        <EditText
+            android:id="@+id/persontal_deault_name"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:hint="输入名字"
+            android:gravity="top"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:background="@color/write"
+            />
+
+    </RelativeLayout>
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/zhubo_bg">
+
+    <fm.jiecao.jcvideoplayer_lib.JCVideoPlayerStandard
+        android:id="@+id/custom_videoplayer_standard"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@color/quantouming"
+        android:id="@+id/replay_title_layout"
+        android:layout_marginTop="20dp">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/error_zb"
+            android:id="@+id/backs"
+            android:layout_marginRight="20dp"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text=""
+            android:layout_centerInParent="true"
+            android:textColor="@color/write"
+            android:gravity="center"
+            android:textSize="20sp"
+            />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="40dp"
+            android:paddingRight="9dp"
+            android:paddingLeft="9dp"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp"
+            android:src="@drawable/persontal_user_delete"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:visibility="gone"
+            android:id="@+id/replay_choice_bianji"
+            />
+    </RelativeLayout>
+
+    </FrameLayout>
+
+
+
+
+
+
+
+
+
+</RelativeLayout>

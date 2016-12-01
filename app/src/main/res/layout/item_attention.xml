@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/theme_bg">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/item_noticeImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/hyh"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:id="@+id/item_noticeName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="何艳华"
+            android:layout_toRightOf="@+id/item_noticeImage"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textSize="16dp"
+            />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/item_noticeName"
+            android:src="@mipmap/ioc_dj1"
+            android:layout_alignBottom="@+id/item_noticeName"
+            android:layout_marginLeft="8dp"/>
+        <TextView
+            android:id="@+id/item_noticeTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:textColor="@color/gray"
+            android:text="06-17"
+            android:layout_toRightOf="@+id/item_noticeImage"
+            android:layout_below="@+id/item_noticeName"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:textColor="@color/gray"
+            android:text="14:13"
+            android:layout_toRightOf="@+id/item_noticeTime"
+            android:layout_below="@+id/item_noticeName"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="5dp"/>
+        <TextView
+            android:id="@+id/item_notice_name1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/item_noticeImage"
+            android:text="特锐德：光伏EPC助力收入增长，充电桩龙头加速布局"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/item_notice_name1"
+            android:text="公司研究 :行业竞争激烈，综合毛利润减少3.3%:上半年综合毛利润。"
+            android:textColor="@color/black"
+            android:layout_marginLeft="10dp"
+           />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

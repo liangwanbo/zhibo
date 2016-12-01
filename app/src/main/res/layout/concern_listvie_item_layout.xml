@@ -1,0 +1,58 @@
+<!-- 直播 -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/theme_bg"
+    android:orientation="vertical">
+
+   <!-- <include layout="@layout/layout_listview" />-->
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView"
+        android:background="@color/write">
+
+        <ListView
+            android:id="@+id/concern_listview_item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="#000000"
+            android:scrollbars="none"
+            />
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+
+
+
+
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/persontal_nodata"
+        android:layout_centerInParent="true"
+        android:id="@+id/persontal_nodata_img_replay"
+        android:visibility="gone"
+        />
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/persontal_nodata_img_replay"
+        android:text="暂无数据"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"
+        android:id="@+id/persontal_nodata_text_replay"
+        />
+
+
+
+
+
+
+
+
+
+</RelativeLayout>

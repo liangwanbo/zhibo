@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/gn_bg"
+    >
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/Relat_zb_l"
+        >
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@mipmap/close"
+            android:layout_marginTop="15dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:id="@+id/backs"
+            android:layout_marginRight="20dp"/>
+
+    </RelativeLayout>
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/Relative_headface"
+        android:layout_marginTop="100dp"
+        >
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="150dp"
+            android:src="@drawable/pic_add"
+            android:scaleType="fitXY"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/image_add_headface"/>
+
+            <TextView
+                android:layout_centerHorizontal="true"
+                android:gravity="center"
+                android:id="@+id/live_background_notice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="添加直播封面"
+                android:textColor="@color/line_btn"
+                android:textSize="16sp"
+                android:layout_marginBottom="30dp"
+                android:layout_alignParentBottom="true"
+                />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="80dp"
+        android:id="@+id/Relative_title"
+        android:layout_below="@+id/Relative_headface"
+        android:layout_marginTop="60dp"
+        >
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/quantouming"
+            android:hint="你要直播什么呢？"
+            android:textColorHint="@color/line_btn"
+            android:textSize="24sp"
+            android:textColor="@color/black"
+            android:id="@+id/edit_title"/>
+    </RelativeLayout>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:background="@drawable/send_btn"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:text="开始直播"
+        android:textColor="@color/write"
+        style="@style/DefualTextSize"
+        android:layout_marginBottom="40dp"
+        android:id="@+id/bnt_zb_kb"
+        />
+
+
+</RelativeLayout>

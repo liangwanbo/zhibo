@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\leak_canary_notification.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\newproject\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\drawable-xxhdpi-v11\\leak_canary_notification.png"
+    },
+    {
+        "merged": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\leak_canary_notification.png",
+        "source": "D:\\replay\\11.14\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\drawable-xxhdpi-v11\\leak_canary_notification.png"
+    },
+    {
+        "merged": "E:\\csvn\\baseproject\\library\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\leak_canary_notification.png",
+        "source": "E:\\csvn\\baseproject\\library\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\drawable-xxhdpi-v11\\leak_canary_notification.png"
+    }
+]

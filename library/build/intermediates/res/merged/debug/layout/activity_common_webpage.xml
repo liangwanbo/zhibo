@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 公共的webview -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <!-- 标题栏 -->
+    <RelativeLayout
+        android:id="@+id/rl_webview_title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_top"
+        android:background="@color/title"
+        android:gravity="center"
+        android:paddingTop="@dimen/title_bar_padding_top" >
+        <ImageView
+            android:id="@+id/ib_webview_back"
+            android:layout_width="35dp"
+            android:layout_height="25dp"
+            android:layout_centerVertical="true"
+            android:contentDescription="@null"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="3dp"
+            android:paddingBottom="3dp"
+            android:src="@drawable/ioc_back" />
+
+        <TextView
+            android:id="@+id/tv_webview_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:ellipsize="marquee"
+            android:gravity="center"
+            android:singleLine="true"
+            android:textColor="@color/title_text"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/ib_webview_share"
+            android:layout_width="30dp"
+            android:layout_height="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:contentDescription="@null"
+            android:paddingRight="10dp"
+            android:src="@drawable/ioc_fenxiang" />
+    </RelativeLayout>
+
+    <!-- 进度条 -->
+
+    <ProgressBar
+        android:id="@+id/pb_web_load_progress"
+        style="@style/ProgressBar_Mini"
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:layout_below="@+id/rl_webview_title_bar"
+        android:layout_gravity="center"
+        android:max="100"
+        android:progress="0" />
+
+    <!-- webview容器（loading等待 + 错误提示重新加载 + webview） -->
+
+    <RelativeLayout
+        android:id="@+id/rl_webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/pb_web_load_progress" >
+
+        <com.fhrj.library.view.pulltorefresh.PullToRefreshWebView
+            android:id="@+id/webview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/theme_bg"
+            android:cacheColorHint="#00000000"
+            android:divider="#19000000"
+            android:dividerHeight="0dp"
+            android:fadingEdge="none"
+            android:fastScrollEnabled="false"
+            android:footerDividersEnabled="false"
+            android:headerDividersEnabled="false"
+            android:listSelector="@null"
+            android:scrollbars="none"
+            android:smoothScrollbar="true"
+            android:visibility="visible" />
+
+        <LinearLayout
+            android:id="@+id/ll_reload"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/theme_bg"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="gone" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@null"
+                android:src="@drawable/ioc_wf" />
+
+            <TextView
+                android:id="@+id/tv_error_msg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:ellipsize="marquee"
+                android:gravity="center_vertical"
+                android:singleLine="true"
+                android:textColor="@color/theme_select"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

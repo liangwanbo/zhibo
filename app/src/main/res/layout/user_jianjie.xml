@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/theme_bg">
+
+
+
+    <include
+        layout="@layout/common_back_title"
+        android:id="@+id/layour_title">
+
+    </include>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:layout_below="@id/layour_title"
+        android:background="@color/write">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="按时到家里开团就卡决定了看到阿萨是打开奥斯卡了京东拿手机爱上就对啦开始的"
+            android:textSize="16sp"
+            android:maxLength="100"
+            android:background="@color/white"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:id="@+id/text_jianjie"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>
